@@ -1,0 +1,22 @@
+# Python runtime files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local settings and learning records
+.env
+.env.*
+!.env.example
+learning-workspace/
+subtitles/
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
